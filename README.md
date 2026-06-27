@@ -441,7 +441,53 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
+## Competitive Programming & Problem Solving
+
+<div align="center">
+
+| Platform | Focus | Profile |
+|:---------|:------|:-------:|
+| **LeetCode** | Data Structures & Algorithms | 🔗 [Visit Profile](https://leetcode.com/u/Ashwinshukla01/) |
+| **GeeksforGeeks** | DSA & Interview Preparation | 🔗 [Visit Profile](https://auth.geeksforgeeks.org/user/ashwinshukla01/) |
+| **HackerRank** | Java, SQL & Problem Solving | 🔗 [Visit Profile](https://www.hackerrank.com/profile/ashwinkrshukla) |
+| **CodeChef** | Competitive Programming | 🔗 [Visit Profile](https://www.codechef.com/users/ashwinshukla01) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Problem Solving Philosophy
+
+*"Every algorithm mastered and every bug solved is another step toward becoming a better software engineer."*
+
+</div>
+
+---
 ---
 
