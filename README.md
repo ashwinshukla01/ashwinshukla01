@@ -493,84 +493,11 @@ The contribution snake represents my continuous journey of learning, building, a
 </div>
 
 ---
-
-<div align="center">
-
-### 🚀 Engineering Mindset
-
-| Principle | Description |
-|:----------|:------------|
-| 💡 **Learn Continuously** | Keep exploring new technologies and industry best practices. |
-| 🏗️ **Build with Purpose** | Develop scalable, maintainable, and user-centric applications. |
-| 🤝 **Collaborate Effectively** | Share knowledge, contribute to open source, and grow with the developer community. |
-| 📈 **Improve Every Day** | Small, consistent improvements lead to long-term excellence. |
-
-</div>
-
----
-
 <div align="center">
 
 > *"Great software isn't built in a day—it's built one meaningful commit at a time."*
 
 </div>
-
-# Current Focus
-
-```yaml
-Profile:
-  Name: Ashwin Shukla
-  Role: Computer Science & Engineering Student
-  University: C.V. Raman Global University
-  Internship: Associate Software Engineer Intern @ Accenture
-
-Learning:
-  - Advanced Spring Boot
-  - System Design Fundamentals
-  - Data Structures & Algorithms
-  - Artificial Intelligence & Machine Learning
-  - Cloud Computing (AWS)
-  - Docker & Microservices
-
-Building:
-  - Enterprise Effort Entry Tool
-  - Java Full Stack Applications
-  - MERN Stack Projects
-  - AI-powered Web Applications
-  - Open Source Projects
-
-Exploring:
-  - Software Architecture
-  - Scalable Backend Systems
-  - RESTful API Design
-  - DevOps & CI/CD
-  - Prompt Engineering
-  - Generative AI
-
-Goals_2026:
-  - Secure a Software Development Engineer (SDE) Role
-  - Contribute to Open Source Projects
-  - Strengthen Competitive Programming Skills
-  - Build Production-Ready Full Stack Applications
-  - Learn Cloud-Native Development
-
-Open_To:
-  - Software Engineering Opportunities
-  - Full Stack Development Roles
-  - AI & Machine Learning Projects
-  - Backend Development
-  - Open Source Collaboration
-  - Technical Networking
-
-Currently_Working_On:
-  - Blogger Platform
-  - Enterprise Effort Entry Tool
-  - Personal Portfolio
-  - GitHub Profile Enhancement
-```
-
----
-
 <div align="center">
 
 ### 🚀 My Development Philosophy
@@ -588,15 +515,15 @@ I'm always open to discussing **Software Engineering**, **Full Stack Development
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ashwinshukla01">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/ashwin-shukla/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ashwinkrshukla@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -604,7 +531,7 @@ I'm always open to discussing **Software Engineering**, **Full Stack Development
 <img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+<a href="https://drive.google.com/file/d/14Dck2t1h9cSKKfoAGLpug0hny1RH_OjO/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-Download-7B68EE?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -620,9 +547,9 @@ I'm always open to discussing **Software Engineering**, **Full Stack Development
 |:-----------|:--------|
 | 📧 **Email** | **YOUR_EMAIL** |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/ashwin-shukla/ |
-| 💻 **GitHub** | https://github.com/YOUR_GITHUB_USERNAME |
-| 🌐 **Portfolio** | https://YOUR_PORTFOLIO_URL |
-| 📄 **Resume** | Google Drive Resume Link |
+| 💻 **GitHub** | https://github.com/ |
+| 🌐 **Portfolio** ashwinshukla01| https://YOUR_PORTFOLIO_URL |
+| 📄 **Resume** | [Google Drive Resume Link](https://drive.google.com/file/d/14Dck2t1h9cSKKfoAGLpug0hny1RH_OjO/view?usp=sharing) |
 
 </div>
 
