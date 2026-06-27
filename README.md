@@ -527,5 +527,36 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
+# GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</div>
+
+---
+
+## 🏆 Development Journey
+
+<div align="center">
+
+| Achievement | Focus |
+|:-----------:|:------|
+| 🚀 **Continuous Learning** | Continuously expanding expertise in Software Engineering, Full Stack Development, and Artificial Intelligence. |
+| 💻 **Project Development** | Building scalable applications using Java, Spring Boot, React.js, Node.js, MySQL, and MongoDB. |
+| 🤝 **Open Source Mindset** | Passionate about collaboration, version control, and contributing to the developer community. |
+| 📈 **Professional Growth** | Committed to writing clean, maintainable code and following modern software engineering practices. |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Success in software engineering is measured not only by the code you write, but by the problems you solve and the impact you create."*
+
+</div>
+
 ---
 
