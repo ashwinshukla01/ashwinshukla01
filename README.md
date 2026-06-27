@@ -117,5 +117,37 @@ I believe in writing clean, maintainable code, continuously learning new technol
 
 </div>
 
+# AI & Software Engineering Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Expertise |
+|:-------|:-----------:|:----------|
+| **Java Development** | ⭐⭐⭐⭐⭐ | Object-Oriented Programming, Collections Framework, Java 8, Exception Handling, Multithreading |
+| **Backend Engineering** | ⭐⭐⭐⭐☆ | Spring Boot, Spring MVC, Spring Data JPA, RESTful APIs, Authentication & Authorization |
+| **Frontend Development** | ⭐⭐⭐⭐☆ | React.js, AngularJS, HTML5, CSS3, JavaScript, Bootstrap, Responsive UI Design |
+| **Full Stack Development** | ⭐⭐⭐⭐☆ | MERN Stack, Java Full Stack Development, API Integration, End-to-End Web Applications |
+| **Database Engineering** | ⭐⭐⭐⭐☆ | MySQL, MongoDB, Database Design, CRUD Operations, Query Optimization |
+| **Artificial Intelligence** | ⭐⭐⭐☆☆ | AI Fundamentals, Prompt Engineering, AI-assisted Development, Exploring Machine Learning |
+| **Software Engineering** | ⭐⭐⭐⭐⭐ | Data Structures & Algorithms, Design Patterns, Clean Architecture, Git, Agile Development |
+| **Cloud & DevOps** | ⭐⭐☆☆☆ | GitHub, Docker (Learning), AWS Fundamentals, CI/CD Basics |
+
+</div>
+
+---
+
+## Areas of Interest
+
+<div align="center">
+
+| Primary Focus | Currently Learning | Future Goals |
+|:-------------|:-------------------|:-------------|
+| Full Stack Development | Artificial Intelligence | Software Development Engineer (SDE) |
+| Backend Engineering | System Design | AI Engineer |
+| Java & Spring Boot | Cloud Computing | Product Engineer |
+| REST API Development | DevOps Fundamentals | Open Source Contributor |
+
+</div>
+
 ---
 
