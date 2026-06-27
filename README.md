@@ -326,5 +326,39 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
+# Achievements
+
+<div align="center">
+
+| 🏆 Recognition | 📌 Details |
+|:---------------|:-----------|
+| **Associate Software Engineer Intern** | Selected for the **Accenture Summer Internship Program (2026)**, gaining exposure to enterprise software development and Agile engineering practices. |
+| **Academic Excellence** | Pursuing **B.Tech in Computer Science & Engineering** at **C.V. Raman Global University** with a **CGPA of 8.24/10**. |
+| **Full Stack Development** | Designed and developed multiple end-to-end web applications using **Spring Boot, MERN Stack, MySQL, and MongoDB**. |
+| **Enterprise Java Development** | Built scalable backend applications using **Spring Boot, Spring MVC, Spring Data JPA, and RESTful APIs**. |
+| **Problem Solving** | Continuously strengthening programming and algorithmic thinking through Java and full-stack development projects. |
+| **Continuous Learning** | Earned industry-recognized certifications from **Palo Alto Networks**, **IBM/Coursera**, and **NPTEL** while expanding expertise in software engineering and cybersecurity fundamentals. |
+| **Version Control** | Proficient in **Git** and **GitHub**, following collaborative development workflows and best practices. |
+
+</div>
+
+---
+
+## Highlights
+
+<div align="center">
+
+| 📈 Milestone | 🎯 Achievement |
+|:------------|:---------------|
+| 🎓 Education | B.Tech – Computer Science & Engineering |
+| 💼 Internship | Associate Software Engineer Intern – Accenture |
+| 💻 Projects | Java Full Stack, MERN Stack & Enterprise Applications |
+| 🌱 Learning | Artificial Intelligence, System Design & Cloud Computing |
+| 🤝 Open To | Software Engineering Internships, Full-Time Opportunities & Open Source Contributions |
+
+</div>
+
+---
+
 ---
 
