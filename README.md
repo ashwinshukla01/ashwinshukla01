@@ -62,4 +62,60 @@ I believe in writing clean, maintainable code, continuously learning new technol
 - Backend Development Roles
 - Product Engineering Teams
 
+# Tech Stack
+
+<div align="center">
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&perline=8" />
+
+<br><br>
+
+## Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap&perline=8" />
+
+<br><br>
+
+## Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=8" />
+
+<br><br>
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" />
+
+<br><br>
+
+## Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&perline=8" />
+
+<br><br>
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws&perline=8" />
+
+</div>
+
 ---
+
+## Core Competencies
+
+<div align="center">
+
+| Software Engineering | Backend Development | Frontend Development | Database Management |
+|:--------------------:|:-------------------:|:--------------------:|:-------------------:|
+| Java Development | Spring Boot | React.js | MySQL |
+| REST APIs | Spring MVC | AngularJS | MongoDB |
+| OOP & DSA | Spring Data JPA | JavaScript | Database Design |
+| Clean Code | Authentication & Authorization | Responsive UI | CRUD Operations |
+
+</div>
+
+---
+
