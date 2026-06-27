@@ -366,30 +366,6 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## Competitive Programming & Problem Solving
 
 <div align="center">
@@ -452,59 +428,9 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
-# GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=# GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ashwinshukla01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-## 🏆 Development Journey
-
-<div align="center">
-
-| Achievement | Focus |
-|:-----------:|:------|
-| 🚀 **Continuous Learning** | Continuously expanding expertise in Software Engineering, Full Stack Development, and Artificial Intelligence. |
-| 💻 **Project Development** | Building scalable applications using Java, Spring Boot, React.js, Node.js, MySQL, and MongoDB. |
-| 🤝 **Open Source Mindset** | Passionate about collaboration, version control, and contributing to the developer community. |
-| 📈 **Professional Growth** | Committed to writing clean, maintainable code and following modern software engineering practices. |
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Success in software engineering is measured not only by the code you write, but by the problems you solve and the impact you create."*
-
-</div>
-
----&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-## 🏆 Development Journey
-
-<div align="center">
-
-| Achievement | Focus |
-|:-----------:|:------|
-| 🚀 **Continuous Learning** | Continuously expanding expertise in Software Engineering, Full Stack Development, and Artificial Intelligence. |
-| 💻 **Project Development** | Building scalable applications using Java, Spring Boot, React.js, Node.js, MySQL, and MongoDB. |
-| 🤝 **Open Source Mindset** | Passionate about collaboration, version control, and contributing to the developer community. |
-| 📈 **Professional Growth** | Committed to writing clean, maintainable code and following modern software engineering practices. |
-
-</div>
 
 ---
 
@@ -518,7 +444,7 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinshukla01&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
