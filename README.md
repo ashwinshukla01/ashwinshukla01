@@ -547,8 +547,8 @@ I'm always open to discussing **Software Engineering**, **Full Stack Development
 |:-----------|:--------|
 | 📧 **Email** | **YOUR_EMAIL** |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/ashwin-shukla/ |
-| 💻 **GitHub** | https://github.com/ |
-| 🌐 **Portfolio** ashwinshukla01| https://YOUR_PORTFOLIO_URL |
+| 💻 **GitHub** | https://github.com/ashwinshukla01 |
+| 🌐 **Portfolio** | https://YOUR_PORTFOLIO_URL |
 | 📄 **Resume** | [Google Drive Resume Link](https://drive.google.com/file/d/14Dck2t1h9cSKKfoAGLpug0hny1RH_OjO/view?usp=sharing) |
 
 </div>
