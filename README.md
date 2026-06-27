@@ -535,7 +535,7 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ashwinshukla01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ashwinshukla01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
@@ -588,6 +588,42 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 ### 💡 *"Success in software engineering is measured not only by the code you write, but by the problems you solve and the impact you create."*
 
 </div>
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 📈 Development Activity
+
+<div align="center">
+
+| Activity | Focus |
+|:---------|:------|
+| 💻 **Software Development** | Building scalable Full Stack applications using Java, Spring Boot, React.js, and Node.js. |
+| 🚀 **Project Development** | Developing enterprise-grade applications with clean architecture and modern development practices. |
+| 📚 **Continuous Learning** | Exploring Artificial Intelligence, System Design, Cloud Computing, and Microservices. |
+| 🔄 **Version Control** | Maintaining projects using Git and GitHub with collaborative development workflows. |
+| 🌱 **Open Source** | Actively learning, contributing, and improving through real-world development projects. |
+
+</div>
+
+---
+
+## 📊 Development Philosophy
+
+<div align="center">
+
+> *"Consistency beats intensity. Every commit is a step toward becoming a better software engineer."*
+
+</div>
+
+---
 
 ---
 
