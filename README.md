@@ -358,6 +358,89 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
+# Certifications
+
+<div align="center">
+
+> **Continuous learning is the foundation of great software engineers.**  
+> I actively pursue industry-recognized certifications to strengthen my knowledge in software engineering, cybersecurity, cloud technologies, and modern development practices.
+
+</div>
+
+---
+
+## 🛡️ Palo Alto Networks
+
+<div align="center">
+
+![Cybersecurity Foundation](https://img.shields.io/badge/Cybersecurity%20Foundation-Certified-6A5ACD?style=for-the-badge&logo=paloaltonetworks)
+
+![Network Security Fundamentals](https://img.shields.io/badge/Network%20Security-Fundamentals-7B68EE?style=for-the-badge&logo=paloaltonetworks)
+
+![Cloud Security Fundamentals](https://img.shields.io/badge/Cloud%20Security-Fundamentals-4B0082?style=for-the-badge&logo=paloaltonetworks)
+
+![Security Operations Fundamentals](https://img.shields.io/badge/Security%20Operations-Fundamentals-6A5ACD?style=for-the-badge&logo=paloaltonetworks)
+
+</div>
+
+---
+
+## ☁️ IBM / Coursera
+
+<div align="center">
+
+![IBM Cybersecurity](https://img.shields.io/badge/IBM-Introduction%20to%20Cybersecurity%20Tools-1261FE?style=for-the-badge&logo=ibm)
+
+</div>
+
+---
+
+## 🎓 NPTEL
+
+<div align="center">
+
+![Innovation by Design](https://img.shields.io/badge/NPTEL-Innovation%20by%20Design-8A2BE2?style=for-the-badge)
+
+</div>
+
+---
+
+## 📚 Learning Journey
+
+<div align="center">
+
+| Provider | Focus Area | Status |
+|:---------|:-----------|:------:|
+| **Palo Alto Networks** | Cybersecurity & Cloud Security | ✅ Completed |
+| **IBM / Coursera** | Cybersecurity Fundamentals | ✅ Completed |
+| **NPTEL** | Innovation & Design Thinking | ✅ Completed |
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+`Spring Boot Advanced`
+
+`System Design`
+
+`Artificial Intelligence`
+
+`Cloud Computing`
+
+`Docker`
+
+`Microservices`
+
+`REST API Design`
+
+`Data Structures & Algorithms`
+
+</div>
+
 ---
 
 ---
