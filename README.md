@@ -495,11 +495,6 @@ The contribution snake represents my continuous journey of learning, building, a
 ---
 <div align="center">
 
-> *"Great software isn't built in a day—it's built one meaningful commit at a time."*
-
-</div>
-<div align="center">
-
 ### 🚀 My Development Philosophy
 
 > **"Build scalable software, write clean code, keep learning, and create technology that makes a real impact."**
@@ -545,7 +540,7 @@ I'm always open to discussing **Software Engineering**, **Full Stack Development
 
 | 📌 Contact | 🔗 Link |
 |:-----------|:--------|
-| 📧 **Email** | **YOUR_EMAIL** |
+| 📧 **Email** | ashwinkrshukla@gmail.com |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/ashwin-shukla/ |
 | 💻 **GitHub** | https://github.com/ashwinshukla01 |
 | 🌐 **Portfolio** | https://YOUR_PORTFOLIO_URL |
