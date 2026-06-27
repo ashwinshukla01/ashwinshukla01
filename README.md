@@ -247,5 +247,49 @@ An enterprise-grade effort tracking application inspired by real-world corporate
 
 </details>
 
+<details open>
+<summary><b>📝 Blogger Platform for C.V. Raman Global University</b></summary>
+
+### Enterprise Blogging Platform for Academic Collaboration
+
+A scalable blogging platform developed for **C.V. Raman Global University** that enables students and administrators to create, manage, and share blogs through a secure, role-based environment. The application follows modern Java enterprise development practices with a clean MVC architecture and responsive user interface.
+
+| Category | Details |
+|-----------|---------|
+| **Technology Stack** | Java, Spring Boot, Spring MVC, Spring Data JPA, MySQL, Bootstrap, Thymeleaf, AngularJS |
+| **Architecture** | MVC (Model-View-Controller) |
+| **Database** | MySQL |
+| **Authentication** | Secure User Authentication & Role-Based Access Control |
+| **Performance** | Optimized CRUD Operations with Spring Data JPA |
+| **Security** | Session Management, Input Validation & Authorization |
+| **Deployment** | Local Development Environment |
+| **Impact** | Provides a collaborative blogging platform for students and faculty |
+| **Repository** | *Coming Soon* |
+
+### Key Features
+
+- 🔐 Secure User Authentication & Authorization
+- 👥 Role-Based Access Control (Admin & Users)
+- ✍️ Create, Edit, Delete & Publish Blog Posts
+- 📚 User-Generated Content Management
+- 📱 Fully Responsive UI using Bootstrap
+- 🎨 Dynamic Server-Side Rendering with Thymeleaf
+- ⚡ AngularJS Components for Enhanced User Experience
+- 🗄️ MySQL Database Integration using Spring Data JPA
+- 🔍 Structured MVC Architecture for Maintainability
+- 🚀 Clean, Scalable & Modular Codebase
+
+### Technical Highlights
+
+- Developed using **Spring Boot**, **Spring MVC**, **Spring Data JPA**, and **MySQL**.
+- Implemented secure authentication with **role-based access control**.
+- Designed a responsive and intuitive interface using **Bootstrap** and **Thymeleaf**.
+- Integrated **AngularJS** components to improve interactivity and enhance the overall user experience.
+- Followed clean coding practices and modular architecture to ensure scalability and maintainability.
+
+</details>
+
+---
+
 ---
 
