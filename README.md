@@ -492,23 +492,23 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinshukla01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ashwinshukla01&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinshukla01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwinshukla01&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinshukla01&theme=tokyonight"/>
 
 </div>
 
