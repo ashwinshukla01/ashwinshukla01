@@ -149,5 +149,103 @@ I believe in writing clean, maintainable code, continuously learning new technol
 
 </div>
 
+# Featured Projects
+
+<details open>
+<summary><b>🚀 Blogger Platform for C.V. Raman Global University</b></summary>
+
+### Enterprise Blogging Platform built using Java Full Stack Technologies
+
+A collaborative blogging platform developed for **C.V. Raman Global University**, enabling students to publish, manage, and explore blogs in a secure and scalable environment.
+
+| Category | Details |
+|-----------|---------|
+| **Technology Stack** | Java, Spring Boot, Spring MVC, Spring Data JPA, MySQL, Bootstrap, Thymeleaf, AngularJS |
+| **Architecture** | MVC Architecture |
+| **Authentication** | Role-Based Authentication & Authorization |
+| **Database** | MySQL |
+| **Performance** | Optimized CRUD Operations & Database Queries |
+| **Security** | Secure Login, Session Management, Role-Based Access Control |
+| **Impact** | Digital platform for collaborative blogging within the university |
+| **Repository** | *Coming Soon* |
+
+### Key Features
+
+- User Registration & Login
+- Role-Based Access Control
+- Create, Edit & Delete Blogs
+- Responsive User Interface
+- Blog Management Dashboard
+- Secure Backend APIs
+- MySQL Database Integration
+- Clean MVC Architecture
+
+</details>
+
+---
+
+<details>
+<summary><b>💰 Expense Tracker Web Application</b></summary>
+
+### Full Stack MERN Application
+
+A responsive expense tracking application that helps users efficiently manage income, expenses, and financial records through interactive dashboards.
+
+| Category | Details |
+|-----------|---------|
+| **Technology Stack** | MongoDB, Express.js, React.js, Node.js |
+| **Authentication** | JWT Authentication |
+| **Architecture** | MERN Stack |
+| **Database** | MongoDB |
+| **Performance** | Optimized API Calls & Responsive UI |
+| **Security** | JWT Tokens & Protected Routes |
+| **Impact** | Personal Finance Management |
+| **Repository** | *Coming Soon* |
+
+### Key Features
+
+- Secure Login & Registration
+- Income & Expense Tracking
+- Interactive Financial Charts
+- Monthly Analytics Dashboard
+- Excel Export Functionality
+- REST API Integration
+- Responsive Design
+
+</details>
+
+---
+
+<details>
+<summary><b>⏳ Effort Entry Tool (In Progress)</b></summary>
+
+### Enterprise Timesheet Management System
+
+An enterprise-grade effort tracking application inspired by real-world corporate workflows, enabling employees to submit daily work logs while providing administrators with approval and reporting capabilities.
+
+| Category | Details |
+|-----------|---------|
+| **Technology Stack** | Spring Boot, React.js, MySQL |
+| **Authentication** | JWT Authentication |
+| **Architecture** | Three-Tier Architecture |
+| **Database** | MySQL |
+| **Performance** | Optimized API Communication |
+| **Security** | Role-Based Access Control |
+| **Impact** | Enterprise Productivity Tool |
+| **Status** | 🚧 Currently Under Development |
+
+### Planned Features
+
+- Employee Login
+- Daily Timesheet Entry
+- Project & Task Management
+- Admin Dashboard
+- Timesheet Approval Workflow
+- Reports & Analytics
+- Secure REST APIs
+- Responsive UI
+
+</details>
+
 ---
 
