@@ -727,6 +727,105 @@ Currently_Working_On:
 > **"Build scalable software, write clean code, keep learning, and create technology that makes a real impact."**
 
 </div>
+# Connect With Me
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together!
+
+I'm always open to discussing **Software Engineering**, **Full Stack Development**, **Artificial Intelligence**, **Open Source**, and exciting collaboration opportunities.
+
+<br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+<img src="https://img.shields.io/badge/Resume-Download-7B68EE?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| 📌 Contact | 🔗 Link |
+|:-----------|:--------|
+| 📧 **Email** | **YOUR_EMAIL** |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/ashwin-shukla/ |
+| 💻 **GitHub** | https://github.com/YOUR_GITHUB_USERNAME |
+| 🌐 **Portfolio** | https://YOUR_PORTFOLIO_URL |
+| 📄 **Resume** | Google Drive Resume Link |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to Opportunities
+
+I'm actively seeking opportunities in:
+
+✨ Software Engineering
+
+✨ Full Stack Development
+
+✨ Java Backend Development
+
+✨ Artificial Intelligence & Machine Learning
+
+✨ Open Source Collaboration
+
+✨ Product Engineering
+
+If you'd like to collaborate, discuss a project, or explore opportunities together, feel free to connect!
+
+</div>
+
+# Thank You for Visiting!
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+Building impactful software one commit at a time.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Always+learning%2C+always+building.;Let's+connect+and+create+something+amazing!"/>
+
+<br><br>
+
+### 💜 *"Code with purpose. Learn with curiosity. Build for impact."*
+
+<br>
+
+**Designed & Developed by Ashwin Shukla**
+
+**© 2026 • All Rights Reserved**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6A5ACD,50:7B68EE,100:4B0082"/>
+
+</div>
 
 ---
 
