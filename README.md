@@ -623,7 +623,47 @@ During the internship, I strengthened my technical, analytical, and problem-solv
 
 </div>
 
----
+# Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ashwinshukla01/ashwinshukla01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
+
+## 🐍 Contribution Visualization
+
+<div align="center">
+
+The contribution snake represents my continuous journey of learning, building, and improving as a software engineer. Every commit reflects consistent progress toward creating scalable applications and mastering modern software development practices.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Engineering Mindset
+
+| Principle | Description |
+|:----------|:------------|
+| 💡 **Learn Continuously** | Keep exploring new technologies and industry best practices. |
+| 🏗️ **Build with Purpose** | Develop scalable, maintainable, and user-centric applications. |
+| 🤝 **Collaborate Effectively** | Share knowledge, contribute to open source, and grow with the developer community. |
+| 📈 **Improve Every Day** | Small, consistent improvements lead to long-term excellence. |
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Great software isn't built in a day—it's built one meaningful commit at a time."*
+
+</div>
+
+---
+
 
