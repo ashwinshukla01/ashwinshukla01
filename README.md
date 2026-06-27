@@ -247,5 +247,84 @@ An enterprise-grade effort tracking application inspired by real-world corporate
 
 </details>
 
+# Experience
+
+<div align="left">
+
+## Associate Software Engineer (ASE) Intern
+
+**Accenture • Pune, Maharashtra**
+
+**May 2026 – July 2026**
+
+### Overview
+
+Selected for Accenture's **Summer Internship Program** as an **Associate Software Engineer (ASE) Intern**, where I gained hands-on exposure to enterprise software development, professional engineering workflows, and collaborative project environments.
+
+During the internship, I strengthened my technical, analytical, and problem-solving abilities while learning industry best practices for software engineering, Agile development, and team collaboration.
+
+### Responsibilities
+
+- Developed a deeper understanding of enterprise software development workflows.
+- Collaborated within a professional Agile development environment.
+- Enhanced problem-solving and analytical thinking through real-world engineering tasks.
+- Applied software engineering best practices and clean coding principles.
+- Improved communication, teamwork, and professional collaboration skills.
+- Participated in technical learning sessions and knowledge-sharing activities.
+- Gained exposure to large-scale software development practices followed in the IT industry.
+
+### Technologies & Skills
+
+`Java`
+`Software Engineering`
+`Problem Solving`
+`Agile`
+`Git`
+`GitHub`
+`REST APIs`
+`Team Collaboration`
+`SDLC`
+`Clean Code`
+
+</div>
+
+---
+
+## Education
+
+<div align="left">
+
+### Bachelor of Technology (B.Tech)
+
+**Computer Science and Engineering**
+
+**C.V. Raman Global University, Bhubaneswar**
+
+**2023 – Present**
+
+**CGPA:** **8.24 / 10**
+
+---
+
+### Higher Secondary Education (Class XII)
+
+**Kendriya Vidyalaya, Patna**
+
+**2022 – 2023**
+
+**Percentage:** **67%**
+
+---
+
+### Secondary Education (Class X)
+
+**Kendriya Vidyalaya, Patna**
+
+**2020 – 2021**
+
+**Percentage:** **95.6%**
+
+</div>
+
 ---
 
