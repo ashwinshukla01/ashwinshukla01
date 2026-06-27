@@ -664,6 +664,70 @@ The contribution snake represents my continuous journey of learning, building, a
 
 </div>
 
+# Current Focus
+
+```yaml
+Profile:
+  Name: Ashwin Shukla
+  Role: Computer Science & Engineering Student
+  University: C.V. Raman Global University
+  Internship: Associate Software Engineer Intern @ Accenture
+
+Learning:
+  - Advanced Spring Boot
+  - System Design Fundamentals
+  - Data Structures & Algorithms
+  - Artificial Intelligence & Machine Learning
+  - Cloud Computing (AWS)
+  - Docker & Microservices
+
+Building:
+  - Enterprise Effort Entry Tool
+  - Java Full Stack Applications
+  - MERN Stack Projects
+  - AI-powered Web Applications
+  - Open Source Projects
+
+Exploring:
+  - Software Architecture
+  - Scalable Backend Systems
+  - RESTful API Design
+  - DevOps & CI/CD
+  - Prompt Engineering
+  - Generative AI
+
+Goals_2026:
+  - Secure a Software Development Engineer (SDE) Role
+  - Contribute to Open Source Projects
+  - Strengthen Competitive Programming Skills
+  - Build Production-Ready Full Stack Applications
+  - Learn Cloud-Native Development
+
+Open_To:
+  - Software Engineering Opportunities
+  - Full Stack Development Roles
+  - AI & Machine Learning Projects
+  - Backend Development
+  - Open Source Collaboration
+  - Technical Networking
+
+Currently_Working_On:
+  - Blogger Platform
+  - Enterprise Effort Entry Tool
+  - Personal Portfolio
+  - GitHub Profile Enhancement
+```
+
+---
+
+<div align="center">
+
+### 🚀 My Development Philosophy
+
+> **"Build scalable software, write clean code, keep learning, and create technology that makes a real impact."**
+
+</div>
+
 ---
 
 
